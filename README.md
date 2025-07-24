@@ -1,5 +1,7 @@
 # COI Generation Pipeline
 
+Note: A lot of this information is speculative (e.g. Epic Database Credential Requirements). I don't have access to a lot of the systems needed.
+
 An AI-driven Certificate of Insurance (COI) generation system that automatically processes email requests and produces Acord 25 PDFs.
 
 ## Features
